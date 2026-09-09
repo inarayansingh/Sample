@@ -1,0 +1,1 @@
+here fetch f6.txt
